@@ -1,0 +1,11 @@
+sudoku.exe
+sudoku.exe asgagasgas
+sudoku.exe -p
+sudoku.exe -p adsghasgas
+sudoku.exe -c asd
+sudoku.exe -c 0
+sudoku.exe -c 100000000000
+sudoku.exe -c 20
+sudoku.exe -s asgfasg
+sudoku.exe -s C:\Users\0\OneDrive\1.txt
+sudoku.exe 0000
